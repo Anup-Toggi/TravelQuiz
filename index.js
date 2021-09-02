@@ -1,5 +1,5 @@
 var readlineSync = require("readline-sync");
-for(j=1;j!="N";j++){
+while(j!="N"){
 
   console.log("Welcome To Travel Quiz\n");
   console.log("NOTE: You will NOT ENJOY the game if you Google it & Give only one best try of yours\n")
